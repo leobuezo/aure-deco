@@ -1,0 +1,19 @@
+{
+  "name": "aure-deco",
+  "version": "1.0.0",
+  "description": "aure deco website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leobuezo/aure-deco.git"
+  },
+  "author": "Leonardo Buezo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leobuezo/aure-deco/issues"
+  },
+  "homepage": "https://github.com/leobuezo/aure-deco#readme"
+}
